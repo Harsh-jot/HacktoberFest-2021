@@ -80,6 +80,18 @@ Here's a home to your queries and quest for potential issues to contribute. We'v
 
 <br>
 
+You can add some good issues, repositories or any considerably relatable thing by making a PR.
+<br>
+
+
+Lemme Know, if you have any issue or if you've got any Better Ideas to implement in this repo.
+<br>
+You can connect with me here
+
+<a href="http://github.com/Harsh-jot" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" /></a> &nbsp;&nbsp;<a href="https://instagram.com/_.harshjot._" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" /></a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/harshjot-singh" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" /></a> &nbsp;&nbsp;<a href="https://twitter.com/harshjot1469" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" /></a>
+
+<br>
+
 Hope we help each other to complete the Hacktoberfest Challenge!
 
 ******
