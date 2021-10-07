@@ -82,6 +82,8 @@ Here's a home to your queries and quest for potential issues to contribute. We'v
 
 You can add some good issues, repositories or any considerably relatable thing by making a PR.
 <br>
+If you are a beginner/pro and you want to contribute or add some amazing projects to this repo, refer [this](https://github.com/Harsh-jot/HacktoberFest-2021/blob/main/CONTRIBUTING.md).
+<br>
 
 
 Lemme Know, if you have any issue or if you've got any Better Ideas to implement in this repo.
