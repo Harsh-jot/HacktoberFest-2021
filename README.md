@@ -84,6 +84,10 @@ You can add some good issues, repositories or any considerably relatable thing b
 <br>
 If you are a beginner/pro and you want to contribute or add some amazing projects to this repo, refer [this](https://github.com/Harsh-jot/HacktoberFest-2021/blob/main/CONTRIBUTING.md).
 <br>
+And if you want to add some of your amazing projects or your fav programs for open-source, you can add it [here](https://github.com/Harsh-jot/HacktoberFest-2021/tree/main/Programs).
+<br>
+Also you can share your experience of Hacktoberfest 2021 in [this](https://github.com/Harsh-jot/HacktoberFest-2021/blob/main/EXPERIENCE.md).
+<br>
 
 
 Lemme Know, if you have any issue or if you've got any Better Ideas to implement in this repo.
