@@ -1,11 +1,11 @@
 ## Contributing
 
-**1.**  Fork [this](https://github.com/Harsh-jot/Project Name.git) repository.
+**1.**  Fork [this](https://github.com/Harsh-jot/HacktoberFest-2021) repository.
 
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone --depth 1 https://github.com/<your_name>/Project Name.git
+git clone --depth 1 https://github.com/<your_username>/Project Name.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
